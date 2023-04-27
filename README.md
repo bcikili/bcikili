@@ -15,7 +15,7 @@
 - ❓ Ask me about anything Automated Valuation Machines.  
   
 
-- ⚡ Fun fact: I thought people would talk about quality of my predictions but all I here errors.  
+- ⚡ Fun fact: I thought people would talk about quality of my predictions but all I hear is errors.  
   
 
 <br/>  
