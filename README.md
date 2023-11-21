@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I am Data Scientist with experience over 7 years of statistical modeling, data preparation / analysis, model deployment, maintenance and interpretations. My previous work experiences are in Consulting, Economics Research, Real Estate and Financing industries. Currently working for First American, Data & Analytics.</div>  
+### <div align="center">I am Data Scientist with experience over 7 years of statistical modeling, data preparation / analysis, model deployment, maintenance and interpretations. My previous work experiences are in Consulting, Economic Research, Real Estate and Financial industries. Currently working for First American, Data & Analytics.</div>  
   
 
 - 🔭 I’m currently working deployment on multi-VMs, orchestration tools and strategies.  
